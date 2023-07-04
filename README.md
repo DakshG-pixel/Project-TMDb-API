@@ -3,7 +3,7 @@ For this project, I have used the TMDb (The Movie Database) API.
 TMDb API enables you to find out the latest information about TV Shows, Movies and the biggest names in entertainment sector for a marvelous and fun TV/Movie watching experience.
 
 # To Get Started
-TMDb documentation link- https://developer.themoviedb.org/reference/intro/getting-started
+TMDb documentation link- https://developer.themoviedb.org/reference/intro/getting-started.
 After joining TMDb, you can easily generate a new developer API key using this link - https://www.themoviedb.org/settings/api/request
 
 # Libraries Used 
